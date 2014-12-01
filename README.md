@@ -1,4 +1,4 @@
-check-webpage
+check-webpages
 =============
 
 The aim of this nagios compatible check script is to download a web page with all his content.
